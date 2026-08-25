@@ -1,0 +1,11 @@
+inflation_easy
+/results
+*.txt
+
+# Local OS, notebook, and Python cache files
+.DS_Store
+__pycache__/
+*.py[cod]
+
+job.sh
+*.txt
